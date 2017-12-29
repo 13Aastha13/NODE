@@ -6,3 +6,4 @@ D:\MEAN>git config --global user.email "aasthasinghal1@gmail.com"
 D:\MEAN>git status
 D:\MEAN>git remote add origin https://github.com/13Aastha13/NODE.
 D:\MEAN>push -u origin master
+git clone https://github.com/13Aastha13/NODE.git
