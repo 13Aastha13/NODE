@@ -1,0 +1,8 @@
+D:\MEAN\01-JustNodeAPP>cd ..
+D:\MEAN>git init
+D:\MEAN>git add -A
+D:\MEAN>git config --global user.name "Aastha"
+D:\MEAN>git config --global user.email "aasthasinghal1@gmail.com"
+D:\MEAN>git status
+D:\MEAN>git remote add origin https://github.com/13Aastha13/NODE.
+D:\MEAN>push -u origin master
